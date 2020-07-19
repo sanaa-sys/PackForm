@@ -1,6 +1,6 @@
-# frontend
+# Order Tracking App
 
-> Display orders and filter them
+> This web page displays the data from the Orders.csv file. This app is built in Vue.js and the backend is done in Python. Running the Python script is needed first to get the JSON
 
 ## Build Setup
 
