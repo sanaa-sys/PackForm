@@ -1,6 +1,6 @@
 # Order Tracking App
 
-> This web page displays the data from the Orders.csv file. This app is built in Vue.js and the backend is done in Python. Running the Python script is needed first to get the JSON
+> This web page displays the data from the Orders.csv file. This app is built in Vue.js and the backend is done in Python. Running the Python script is needed first to get the JSON.This is how the web page looks like.
 
 https://user-images.githubusercontent.com/56182013/87884615-da7d5f80-ca52-11ea-9f6b-6762bef82c96.png
 
