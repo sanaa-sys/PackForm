@@ -1,11 +1,11 @@
-id,created_at,order_name,customer_id,Company Name,Total Amount,Product Names,Delivered Amount
-1,2020-01-02T15:34:12Z,PO #001-I,['Ivan Ivanovich'],['Roga & Kopyta'],918.122," Corrugated Box,Hand sanitizer",6.727
-2,2020-01-15T17:34:12Z,PO #002-I,['Ivan Ivanovich'],['Roga & Kopyta'],254.54," Corrugated Box,Hand sanitizer",254.54
-3,2020-01-05T05:34:12Z,PO #003-I,['Ivan Ivanovich'],['Roga & Kopyta'],7485.1288," Corrugated Box,Hand sanitiZER",1476.414
-4,2020-02-02T15:34:12Z,PO #004-I,['Ivan Ivanovich'],['Roga & Kopyta'],263.35," Corrugated Box,Hand sanitizer",0
-5,2020-01-03T10:34:12Z,PO #005-I,['Ivan Ivanovich'],['Roga & Kopyta'],1699.208," Corrugated Box,Hand sanitizer",0
-6,2020-01-02T15:34:12Z,PO #001-P,['Petr Petrovich'],['Pupkin & Co'],298.181," Corrugated Box,Hand sanitizer",298.181
-7,2020-01-15T17:34:12Z,PO #002-P,['Petr Petrovich'],['Pupkin & Co'],3600.24," Corrugated Box,Hand sanitizer",3399.12
-8,2020-01-05T05:34:12Z,PO #003-P,['Petr Petrovich'],['Pupkin & Co'],6935.9183," Corrugated Box,Hand sanitizer",6935.9183
-9,2020-02-02T15:34:12Z,PO #004-P,['Petr Petrovich'],['Pupkin & Co'],910.736," Corrugated Box,Hand sanitizer",668.528
-10,2020-01-03T10:34:12Z,PO #005-P,['Petr Petrovich'],['Pupkin & Co'],5570," Corrugated Box,Hand sanitizer",3480
+id,created_at,order_name,customer_id
+1,2020-01-02T15:34:12Z,PO #001-I,ivan
+2,2020-01-15T17:34:12Z,PO #002-I,ivan
+3,2020-01-05T05:34:12Z,PO #003-I,ivan
+4,2020-02-02T15:34:12Z,PO #004-I,ivan
+5,2020-01-03T10:34:12Z,PO #005-I,ivan
+6,2020-01-02T15:34:12Z,PO #001-P,petr
+7,2020-01-15T17:34:12Z,PO #002-P,petr
+8,2020-01-05T05:34:12Z,PO #003-P,petr
+9,2020-02-02T15:34:12Z,PO #004-P,petr
+10,2020-01-03T10:34:12Z,PO #005-P,petr
